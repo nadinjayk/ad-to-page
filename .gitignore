@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/.package_stamp.txt
+
+backend/jobs/
+backend/__pycache__/
+
+*.log
+*.err
+
+ANT API KEY.txt
+OAI API KEY.txt
+
+.DS_Store
+Thumbs.db
